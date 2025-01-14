@@ -37,3 +37,13 @@ jobs:
         with:
           name: Publish win-x64 ObjectDetection
           path: ./win-x64/ObjectDetection
+          
+      - name: Publish Console App
+        run: |
+          dotnet publish amel.aftisse.ObjectDetection/amel.aftisse.ObjectDetection.csproj --configuration Release --self-contained true --runtime win-x64 --output ./publish --p:PublishSingleFile=true
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+            name: Published-App
+            path: ./publish
