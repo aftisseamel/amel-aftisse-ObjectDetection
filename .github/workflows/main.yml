@@ -40,7 +40,7 @@ jobs:
           
       - name: Publish Console App
         run: |
-          dotnet publish ./amel.aftisse.ObjectDetection/amel.aftisse.ObjectDetection.csproj --configuration Release --self-contained true --runtime win-x64 --output ./publish --p:PublishSingleFile=true
+          dotnet publish ./amel.aftisse.ObjectDetection.Console/amel.aftisse.ObjectDetection.Console.csproj --configuration Release --self-contained true --runtime win-x64 --output ./publish --p:PublishSingleFile=true
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
