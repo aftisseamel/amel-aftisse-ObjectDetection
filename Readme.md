@@ -8,6 +8,7 @@ M2 Cyber
 mkdir ObjectDetection 
 cd ObjectDetection
 
+
 dotnet new sln -n amel.aftisse.ObjectDetection
 dotnet new classlib -n amel.aftisse.ObjectDetection
 
