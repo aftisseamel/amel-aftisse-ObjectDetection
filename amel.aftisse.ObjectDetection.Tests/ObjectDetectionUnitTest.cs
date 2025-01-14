@@ -1,12 +1,6 @@
-using System.Collections.Generic; 
-using System.IO; 
 using System.Reflection; 
 using System.Text.Json; 
-using System.Threading.Tasks; 
-using Xunit; 
-
- 
-namespace VotrePrénom.VotreNom.ObjectDetection.Tests; 
+namespace amel.aftisse.ObjectDetection.Tests; 
  
 public class ObjectDetectionUnitTest 
 { 
