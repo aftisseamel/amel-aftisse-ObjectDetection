@@ -1,0 +1,6 @@
+@amel.aftisse.ObjectDetection.WebApi_HostAddress = http://localhost:5083
+
+GET {{amel.aftisse.ObjectDetection.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

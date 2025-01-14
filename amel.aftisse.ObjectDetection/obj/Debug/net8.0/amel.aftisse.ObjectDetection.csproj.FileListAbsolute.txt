@@ -1,0 +1,13 @@
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\bin\Debug\net8.0\amel.aftisse.ObjectDetection.deps.json
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\bin\Debug\net8.0\amel.aftisse.ObjectDetection.dll
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\bin\Debug\net8.0\amel.aftisse.ObjectDetection.pdb
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.AssemblyInfoInputs.cache
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.AssemblyInfo.cs
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.csproj.CoreCompileInputs.cache
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.dll
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\refint\amel.aftisse.ObjectDetection.dll
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.pdb
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\ref\amel.aftisse.ObjectDetection.dll
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx
+C:\Users\asens\ObjectDetection\amel.aftisse.ObjectDetection\obj\Debug\net8.0\amel.aftisse.ObjectDetection.csproj.AssemblyReference.cache

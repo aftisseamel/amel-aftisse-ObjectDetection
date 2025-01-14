@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vSVwZRC/aJ2DPXKVYHHi2X4U54Px8hGOBE/oukWnGGk=",
+  "Source": "amel.aftisse.ObjectDetection.WebApi",
+  "BasePath": "_content/amel.aftisse.ObjectDetection.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

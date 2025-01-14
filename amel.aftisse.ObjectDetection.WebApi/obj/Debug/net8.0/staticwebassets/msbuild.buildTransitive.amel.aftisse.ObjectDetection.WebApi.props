@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\amel.aftisse.ObjectDetection.WebApi.props" />
+</Project>
